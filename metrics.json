@@ -1,0 +1,5 @@
+{
+  "roc_auc": 0.8163829948972474,
+  "fraud_rate": 0.012319140498876434,
+  "recommended_threshold": 0.3
+}
