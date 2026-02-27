@@ -6,11 +6,9 @@ An interactive Streamlit application allows users to upload new data, adjust the
 
 ## Live Demo
 
-Deployed via Streamlit Community Cloud.
-https://fraud-risk-app-bf7avzazvojk3ukwuwkkcf.streamlit.app
-You can view trainig data statistics, and upload your own csv at the bottom (with the same characteristics).
-Initially designed to work within the company.
-
+Deployed via Streamlit Community Cloud: https://fraud-risk-app-bf7avzazvojk3ukwuwkkcf.streamlit.app
+The app displays training-data statistics and allows users to upload a CSV for scoring (must follow the same feature schema as the training data).
+This tool was originally designed for internal use within the company.
 
 
 ## Problem Context
